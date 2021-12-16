@@ -1,28 +1,21 @@
 const API = [
   {
-    name: "ItemOne",
+    name: "Booking A",
     price: 19.99,
     count: 0,
     counterVal: 1,
     inCart: false
   },
   {
-    name: "ItemTwo",
+    name: "Booking B",
     price: 14.99,
     count: 0,
     counterVal: 1,
     inCart: false
   },
   {
-    name: "ItemThree",
+    name: "Booking C",
     price: 8.99,
-    count: 0,
-    counterVal: 1,
-    inCart: false
-  },
-  {
-    name: "ItemFour",
-    price: 6.99,
     count: 0,
     counterVal: 1,
     inCart: false
